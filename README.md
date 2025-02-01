@@ -22,14 +22,14 @@
 <br>
 
 <h2 align="left">Connect with me:</h2>
-<p align="left" style="display: flex; gap: 100px; border: 2px solid #66D3FA; padding: 50px; width: fit-content;">
-  <p style="border: 2px solid darkgrey; border-radius: 10px; padding-right: 100px;">
-    <a href="mailto:nk578311@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="naresh" /></a>
-  </p>
+<table>
+  <tr>
+    <td><a href="mailto:nk578311@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"></a></td>
+    <td><a href="https://www.linkedin.com/in/naresh-kumar-09b887186/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" alt="LinkedIn"></a></td>
+    <td><a href="https://github.com/47nk" target="_blank"><img src="https://img.icons8.com/fluency/48/null/github.png" alt="GitHub"></a></td>
+    <td><a href="https://www.youtube.com/@47nar3sh" target="_blank"><img src="https://img.icons8.com/fluency/48/null/youtube.png" alt="YouTube"></a></td>
+  </tr>
+</table>
 
-<a href="https://www.linkedin.com/in/naresh-kumar-09b887186/" target="blank"><img  align="center" src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" alt="naresh"/></a>
-<a href="https://github.com/47nk" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/github.png" alt="naresh" /></a>
-<a href="https://www.youtube.com/@47nar3sh" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/youtube.png" alt="naresh"/></a>
-</p>
 <br>
 
