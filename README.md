@@ -1,7 +1,6 @@
 <p align="center" >
-  <img height=150px src="https://github.com/47nk/47nk/Programming123najra.gif" />
+  <img height=150px src="https://github.com/47nk/47nk/blob/main/Programming123najra.gif" />
 </p>
- <img height=150px src="https://github.com/47nk/47nk/Programming123najra.gif" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Sofia&color=66D3FA&size=40&center=true&vCenter=true&width=1000&height=70&lines=Hey+There+&#33+I'm+Naresh;A+Passionate+GoLang+Developer+and+Full+Stack+Engineer" />
 <hr>
 
