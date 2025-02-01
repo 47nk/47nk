@@ -6,7 +6,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img align="right" src="https://komarev.com/ghpvc/?username=47nk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-  <h3 align="center">
+  <h3 align="left">
     <a href="https://leetcode.com/47nk/" target="blank">LeetCode</a> | 
     <a href="https://auth.geeksforgeeks.org/user/47nk/" target="blank">GeeksForGeeks</a>
   </h3>
