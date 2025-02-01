@@ -7,8 +7,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=47nk&label=Profile%20views&color=0e75b6&style=flat"><br>
 <h3 align="center">
  <a href="https://leetcode.com/47nk/" target="blank">LeetCode</a> | 
- <a href="https://auth.geeksforgeeks.org/user/47nk/" target="blank">GeeksForGeeks</a> | 
- <a href="https://github.com/47nk" target="blank">GitHub</a>
+ <a href="https://auth.geeksforgeeks.org/user/47nk/" target="blank">GeeksForGeeks</a>
 </h3>
 <br>
 
@@ -23,10 +22,11 @@
 <br>
 
 <h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="mailto:nk578311@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="naresh" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/naresh-kumar-09b887186/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" alt="naresh"/></a>&nbsp;
-<a href="https://github.com/47nk" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/github.png" alt="naresh" /></a>&nbsp;
-<a href="https://www.youtube.com/@47nar3sh" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/youtube.png" alt="naresh"/></a>&nbsp;
+<p align="left" style="display: flex; gap: 10px; border: 2px solid #66D3FA; padding: 10px; width: fit-content;">
+<a href="mailto:nk578311@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="naresh" /></a>
+<a href="https://www.linkedin.com/in/naresh-kumar-09b887186/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin-2.png" alt="naresh"/></a>
+<a href="https://github.com/47nk" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/github.png" alt="naresh" /></a>
+<a href="https://www.youtube.com/@47nar3sh" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/youtube.png" alt="naresh"/></a>
 </p>
+<br>
 
